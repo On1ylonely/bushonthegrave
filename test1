@@ -5,3 +5,8 @@
 SELECT *
 FROM BANANA
 ```
+---
+``` SQL
+SELECT *
+FROM ANANAS
+```
